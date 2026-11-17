@@ -1,0 +1,7 @@
+BadNet:
+    ipv6_double_colon 2001::db8::1
+    ipv6_bad_hex 2001:db8::gggg
+    cidr_overflow 192.168.1.0/33
+    cidr_negative 192.168.1.0/-1
+    mac_short 00:1A:2B:3C:4D
+    mac_bad_char 00:1A:2B:3C:4D:ZZ

@@ -1,0 +1,11 @@
+{
+  "Component_FireImmunity": {
+    "fire_resist": 1.0,
+    "burn_immune": true
+  },
+  "Dragon": {
+    "health": 5000,
+    "fire_resist": 1.0,
+    "burn_immune": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Loot_Goblin": {
+    "spawn_pos":,
+    "aura_color":,
+    "damage": { "min": 13, "max": 30 },
+    "drop_gold": { "chance": 0.5, "min": 1, "max": 5 },
+    "drop_sword": { "chance": 0.15, "min": 1, "max": 1 }
+  }
+}

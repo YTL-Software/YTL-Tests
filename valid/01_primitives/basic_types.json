@@ -1,0 +1,9 @@
+{
+  "AppConfig": {
+    "name": "Yggdrasil Engine",
+    "version": 1,
+    "gravity": -9.81,
+    "is_debug": true,
+    "empty_value": null
+  }
+}

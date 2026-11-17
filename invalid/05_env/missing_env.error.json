@@ -1,0 +1,5 @@
+{
+  "error": "MissingEnvVar",
+  "variable": "NON_EXISTENT_YTL_VAR_999",
+  "line": 2
+}

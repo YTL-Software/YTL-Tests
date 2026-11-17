@@ -1,0 +1,5 @@
+{
+  "error": "FileNotFound",
+  "path": "does_not_exist.ytl",
+  "line": 1
+}

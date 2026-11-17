@@ -1,0 +1,7 @@
+Component_FireImmunity:
+    fire_resist 100%
+    burn_immune @true
+
+Dragon:
+    health 5000
+    Attach Component_FireImmunity
