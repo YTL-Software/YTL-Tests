@@ -1,0 +1,5 @@
+LoopA{LoopB}:
+    a 1
+
+LoopB{LoopA}:
+    b 2

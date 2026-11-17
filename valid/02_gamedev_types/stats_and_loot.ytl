@@ -1,5 +1,6 @@
 Loot_Goblin:
-    position (10, 5, 2)
-    tint (255, 0, 0, 255)
+    spawn_pos (10, 5, 2)
+    aura_color (255, 0, 0, 255)
     damage 13~30
     drop_gold 50% 1~5
+    drop_sword 15% 1

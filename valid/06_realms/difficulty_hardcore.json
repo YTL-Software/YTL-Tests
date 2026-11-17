@@ -1,0 +1,6 @@
+{
+    "Warrior":{
+        "health": 50,
+        "damage": {"min": 25, "max": 50}
+    }
+}

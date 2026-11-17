@@ -1,0 +1,2 @@
+Server:
+    secret_key $NON_EXISTENT_YTL_VAR_999

@@ -1,0 +1,13 @@
+{
+  "Character": {
+    "max_level": 100,
+    "health": 100,
+    "armor": 10
+  },
+  "Warrior": {
+    "max_level": 100,
+    "health": 150,
+    "armor": 10,
+    "rage": 50
+  }
+}

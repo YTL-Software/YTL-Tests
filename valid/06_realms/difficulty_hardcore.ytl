@@ -1,0 +1,6 @@
+Warrior:
+    health 100
+    damage 10~20
+    Realm "Hardcore":
+        health 50
+        damage 20~50
